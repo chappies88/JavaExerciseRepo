@@ -88,6 +88,12 @@ public class Main {
         List<String> subList = color.subList(0,3);
         System.out.println(subList);
 
+        //12. Swap the elements in array
+        System.out.println("\n12. Swap the elements");
+        System.out.println(color);
+        System.out.println("After Swap:");
+
+
 
 
 
